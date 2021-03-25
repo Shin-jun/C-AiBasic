@@ -1,0 +1,17 @@
+﻿  MLP.cpp
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.cpp(9,1): error C2084: 'CMLP::CMLP(void)' 함수에 이미 본문이 있습니다.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.h(33): message : '{ctor}'의 이전 정의를 참조하십시오.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.cpp(26,1): error C2084: 'CMLP::~CMLP(void)' 함수에 이미 본문이 있습니다.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.h(37): message : '{dtor}'의 이전 정의를 참조하십시오.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.cpp(54,1): error C2084: 'bool CMLP::Create(int,int *,int,int)' 함수에 이미 본문이 있습니다.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.h(43): message : 'Create'의 이전 정의를 참조하십시오.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.cpp(101,1): error C2084: 'void CMLP::InitW(void)' 함수에 이미 본문이 있습니다.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.h(50): message : 'InitW'의 이전 정의를 참조하십시오.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.cpp(104,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.cpp(120,1): error C2084: 'void CMLP::Forward(void)' 함수에 이미 본문이 있습니다.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.h(56): message : 'Forward'의 이전 정의를 참조하십시오.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.cpp(141,1): error C2084: 'double CMLP::ActivationFunc(double)' 함수에 이미 본문이 있습니다.
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP.h(62): message : 'ActivationFunc'의 이전 정의를 참조하십시오.
+  MLP_forward.cpp
+F:\C++_AI\4주차\MLP_forward\MLP_forward\MLP_forward.cpp(40,27): warning C4101: 'node' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
