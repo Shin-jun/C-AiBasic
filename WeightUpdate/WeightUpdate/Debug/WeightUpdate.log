@@ -1,0 +1,6 @@
+﻿  MLP.cpp
+F:\C++_AI\5주차-2\WeightUpdate\WeightUpdate\MLP.cpp(10,6): warning C4101: 'layer' :참조되지 않은 지역 변수입니다.
+F:\C++_AI\5주차-2\WeightUpdate\WeightUpdate\MLP.cpp(29,20): warning C4101: 'enode' :참조되지 않은 지역 변수입니다.
+F:\C++_AI\5주차-2\WeightUpdate\WeightUpdate\MLP.cpp(65,20): warning C4101: 'enode' :참조되지 않은 지역 변수입니다.
+F:\C++_AI\5주차-2\WeightUpdate\WeightUpdate\MLP.cpp(119,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WeightUpdate.vcxproj -> F:\C++_AI\5주차-2\WeightUpdate\Debug\WeightUpdate.exe

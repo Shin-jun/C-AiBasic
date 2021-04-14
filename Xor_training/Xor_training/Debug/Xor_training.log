@@ -1,0 +1,11 @@
+﻿  MLP.cpp
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(11,6): warning C4101: 'layer' :참조되지 않은 지역 변수입니다.
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(30,20): warning C4101: 'enode' :참조되지 않은 지역 변수입니다.
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(67,20): warning C4101: 'enode' :참조되지 않은 지역 변수입니다.
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(121,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(223,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(254,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(258,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(262,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\C++_AI\6주차\Xor_training\Xor_training\MLP.cpp(272,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Xor_training.vcxproj -> F:\C++_AI\6주차\Xor_training\Debug\Xor_training.exe
